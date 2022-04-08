@@ -28,4 +28,4 @@ def solution(numbers):
     return str(int(''.join(numbers)))
 
 
-###########
+############
