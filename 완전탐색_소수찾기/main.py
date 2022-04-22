@@ -56,3 +56,6 @@ def solution(numbers):
     answer = set(answer)
 
     return len(answer)
+
+
+#######

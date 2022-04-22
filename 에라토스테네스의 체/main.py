@@ -28,3 +28,6 @@ for i in su:
                 su.remove(j)
 
 print(su)
+
+
+######
